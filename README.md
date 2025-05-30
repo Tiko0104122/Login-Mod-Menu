@@ -1,12 +1,6 @@
 [
-  {
-    "user": "QuantumLynx42",
-    "pass": "V7m$2bXq!eF9",
-    "vip": false
-  },
-  {
-    "user": "GhostFunnyGamer2025",
-    "pass": "GhostFunnyGamer2026",
-    "vip": true
-  }
+  { "user": "Prexh", "pass": "Mods", "type": "vip" },
+  { "user": "Alex", "pass": "Alpha", "type": "vip" },
+  { "user": "Guest", "pass": "Free", "type": "free" },
+  { "user": "Test", "pass": "1234", "type": "free" }
 ]
